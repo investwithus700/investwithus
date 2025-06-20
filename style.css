@@ -719,6 +719,11 @@
           font-size: 30px;
       }
 
+   footer .logo{
+    margin:0;
+    padding:0;
+   }
+
       footer .logo img {
           margin: auto;
           padding: 0;
